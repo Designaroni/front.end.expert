@@ -6,7 +6,7 @@ class App extends Component{
   render(){
     return(
       <div className="App">
-        <h1> Welcome to <a className="inline-anchor"href="https://front.end.expert/">Front<span class="typography-small-x">x</span>End<span class="typography-small-x">x</span>Expert</a></h1>
+        <h1>Welcome to <a className="inline-anchor"href="https://front.end.expert/">Front<span class="typography-small-x">x</span>End<span class="typography-small-x">x</span>Expert</a></h1>
       </div>
     );
   }
