@@ -1,0 +1,21 @@
+body, html {
+  color: #090a0b;
+}
+.App {
+  margin: 1rem;
+  font-family: Helvetica, sans-serif;
+}
+a,
+.inline-anchor {
+  color: #0060ec;
+  text-decoration: none;
+}
+a:hover,
+.inline-anchor:hover {
+  text-decoration: underline;
+}
+.typography-small-x {
+  font-size: .5em;
+  line-height: .5em;
+  color: #090a0b;
+}
