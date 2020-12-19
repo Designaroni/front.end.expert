@@ -1,5 +1,5 @@
 {
-  "name": "@designaroni/create-react-from-scratch",
+  "name": "@designaroni/front.end.expert",
   "version": "1.0.0",
   "description": "a react site from scratch",
   "keywords": [
@@ -12,17 +12,19 @@
     "website",
     "example"
   ],
-  "homepage": "https://designaroni.com/react-from-scratch",
+  "homepage": "https://github.com/Designaroni/front.end.expert",
   "bugs": {
-    "url": "https://github.com/designaroni/react-from-scratch/issues"
+    "url": "https://github.com/Designaroni/front.end.expert/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designaroni/react-from-scratch.git"
+    "url": "git+https://github.com/Designaroni/front.end.expert.git"
   },
   "author": "Ian Roberts <ian.roberts@designaroni+npm.com> (https://designaroni.com)",
   "main": "index.js",
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "webpack-dev-server --mode development"
   },
   "engines": {
