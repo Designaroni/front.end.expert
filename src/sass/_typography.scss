@@ -1,0 +1,32 @@
+body, html {
+  color: $primary-typography-color;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.App {
+  margin: 1rem;
+  font-family: Helvetica, sans-serif;
+}
+a,
+.inline-anchor {
+  color: $primary-link-color;
+  text-decoration: none;
+}
+a:hover,
+.inline-anchor:hover {
+  text-decoration: underline;
+}
+.typography-small-x {
+  font-size: .5em;
+  line-height: .5em;
+  color: $primary-typography-color;
+}
