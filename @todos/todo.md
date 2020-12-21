@@ -3,8 +3,14 @@
   - Build in Support for Internet Explorer 9, 10, and 11
     - @see - https://create-react-app.dev/docs/supported-browsers-features
     - @see - https://create-react-app.dev/docs/adding-css-reset
-  - Build github authentication service
+  - Build github authentication service for profile creation
+  - Build user dashboard, pulling data from third party source (headless rest API, firebase, google sheet, contentful etc..) or integrate user profile data into graphql server
   - Build google api write & read example
+  - Add CI/automation tool, Github Action or third party (ex: Circle CI or similar)
+  - Add automated testing tools
+  - Setup gated merge to master, require pull requests
+  - setup workflow for deployment to production only from master branch
+  - Setup staging URL
   - write/read data to graphql/ add graphql support, similar to how gatsby rolls, then write about it
   - add docusaurus to docs.front.end.expert
     - Add documentation for how the site is built and how is works, in depth docs on react blog posts on technology
