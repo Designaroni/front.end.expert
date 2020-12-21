@@ -5,6 +5,7 @@
     - @see - https://create-react-app.dev/docs/adding-css-reset
   - Build github authentication service
   - Build google api write & read example
+  - write/read data to graphql/ add graphql support, similar to how gatsby rolls, then write about it
   - add docusaurus to docs.front.end.expert
     - Add documentation for how the site is built and how is works, in depth docs on react blog posts on technology
       - ex: @see https://create-react-app.dev/docs/supported-browsers-features/#supported-language-features
@@ -35,5 +36,11 @@
       - how to prep for interviews
       - types of interviews
       - coding tests & take home challenges, live coding ediquette
+  - tutorials list:
+    - CSS grid
+    - Flexbox
+    - box model
+    - ES5 to ES6
+
 
    
