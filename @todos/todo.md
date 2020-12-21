@@ -11,6 +11,7 @@
   - Setup gated merge to master, require pull requests
   - setup workflow for deployment to production only from master branch
   - Setup staging URL
+  - write steps for deployment
   - write/read data to graphql/ add graphql support, similar to how gatsby rolls, then write about it
   - add docusaurus to docs.front.end.expert
     - Add documentation for how the site is built and how is works, in depth docs on react blog posts on technology
