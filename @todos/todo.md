@@ -1,5 +1,7 @@
 # Front.End.Expert App Todos
 
+  - Add github PR template
+  - Add github PR creation & requirements documentation
   - Build in Support for Internet Explorer 9, 10, and 11
     - @see - https://create-react-app.dev/docs/supported-browsers-features
     - @see - https://create-react-app.dev/docs/adding-css-reset
