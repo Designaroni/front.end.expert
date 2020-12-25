@@ -26,7 +26,7 @@ function App() {
       </section>
       */}
       <header>
-        <h1>Welcome to <a className="inline-anchor"href="/">Front<span class="typography-small-x">x</span>End<span class="typography-small-x">x</span>Expert</a></h1>
+        <h1>Welcome to <a className="inline-anchor"href="/">Front<span className="typography-small-x">x</span>End<span className="typography-small-x">x</span>Expert</a></h1>
       </header>
       <section>
 

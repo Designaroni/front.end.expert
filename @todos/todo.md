@@ -6,6 +6,9 @@
     - @see - https://create-react-app.dev/docs/supported-browsers-features
     - @see - https://create-react-app.dev/docs/adding-css-reset
   - Build github authentication service for profile creation
+    - user data to pull, image, name, user name, source repositories
+  - Build in authentication for stack overflow API
+  - Build user profile component creation guide & vetting system
   - Build user dashboard, pulling data from third party source (headless rest API, firebase, google sheet, contentful etc..) or integrate user profile data into graphql server
   - Build google api write & read example
   - Add CI/automation tool, Github Action or third party (ex: Circle CI or similar)
@@ -13,6 +16,9 @@
   - Setup gated merge to master, require pull requests
   - setup workflow for deployment to production only from master branch
   - Setup staging URL
+  - Look into manifest.json
+  - Look into browserconfig.xml
+  - Verify manifest.json & browserconfig.xml are working as expected
   - write steps for deployment
   - write/read data to graphql/ add graphql support, similar to how gatsby rolls, then write about it
   - add docusaurus to docs.front.end.expert
@@ -50,6 +56,8 @@
     - Flexbox
     - box model
     - ES5 to ES6
+    - Thinking in React (component design system thinking)
+    - Progressive Web Apps (Apps built w/ modern web API's)
 
 
    
