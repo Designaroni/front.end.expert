@@ -2,7 +2,7 @@
   "name": "front.end.expert",
   "author": "Ian Roberts <ian.roberts@designaroni+npm.com> (https://designaroni.com)",
   "version": "0.1.0",
-  "description": "Front.End.Expert, a portfolio site built with react, soon to be a community and documentation site",
+  "description": "Front.End.Expert – A Portfolio & Documentation Website built on React. Front-end development & engineering best practices, code documentation, annotation standards, training guides & resources – all written with a 'start-from-zero' mindsets for beginners & experts alike.",
   "keywords": [
     "react.js",
     "webpack",
@@ -35,7 +35,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -b production -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
